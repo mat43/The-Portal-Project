@@ -11,10 +11,10 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'loginBackground': "url('/assets/interlaced.png')",
+        'loginBackground': "url('/assets/bg.jpg')",
       },
       fontFamily: {
-        main: ['Inter'],
+        main: ['Montserrat'],
       },
     },
   },
